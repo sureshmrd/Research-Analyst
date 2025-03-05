@@ -24,15 +24,16 @@ A **Research Assistant** web application built using **Spring Boot** (with Lombo
 - Click the "save Notes" to save the important notes for future reference.
 
 ## Image References
-![image](https://github.com/user-attachments/assets/29149195-7e97-4865-9f7d-7f81e654a6d6)
 
-![image](https://github.com/user-attachments/assets/2bd054b2-9c19-4bab-aa12-b6d2715fe358)
+- ![image](https://github.com/user-attachments/assets/29149195-7e97-4865-9f7d-7f81e654a6d6)
 
-![image](https://github.com/user-attachments/assets/c3dbc4fe-d4f2-4c01-bf47-3e608e89402d)
+- ![image](https://github.com/user-attachments/assets/2bd054b2-9c19-4bab-aa12-b6d2715fe358)
 
-![image](https://github.com/user-attachments/assets/e6368e39-0b20-46a8-ba04-b47d817fc798)
+- ![image](https://github.com/user-attachments/assets/c3dbc4fe-d4f2-4c01-bf47-3e608e89402d)
 
-![image](https://github.com/user-attachments/assets/70ac8d2f-2127-4a1d-8115-6da3dd1ebc25)
+- ![image](https://github.com/user-attachments/assets/e6368e39-0b20-46a8-ba04-b47d817fc798)
+
+- ![image](https://github.com/user-attachments/assets/70ac8d2f-2127-4a1d-8115-6da3dd1ebc25)
 
 ## Future Enhancements
 - User authentication and saved research history.
